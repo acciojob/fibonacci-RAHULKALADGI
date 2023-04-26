@@ -1,6 +1,6 @@
 function fibonacci(num) {
 // your code here
-	 let a = 0;
+        let a = 0;
         let b = 1;
         let c;
         if(num == 1) {
@@ -18,6 +18,6 @@ function fibonacci(num) {
             console.log(c);
         }
     }
-}
+
 
 module.exports = fibonacci;
